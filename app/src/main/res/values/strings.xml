@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LocalRegistro</string>
+    <string name="cpf">CPF</string>
+    <string name="nome">Nome</string>
+    <string name="buscar">Buscar Região</string>
+
+    <string name="regiao">Região: </string>
+    <string name="cpf2">CPF: </string>
+    <string name="retornar">Retornar para tela inicial</string>
+</resources>
